@@ -1,6 +1,7 @@
 ### AOC 2015 Day 1 - Python
 
 Author: Jordan Cowan
+
 GitHub: https://github.com/JC-02
 
 ## --- Day 1: Not Quite Lisp ---
